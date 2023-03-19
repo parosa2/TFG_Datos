@@ -1,0 +1,10 @@
+gen,start,end,id,locus_tag,type
+gen1,1,25,1,OOC66_mgt01,+
+gen2,26,50,2,OOC66_mgt01,+
+gen3,51,75,3,OOC66_mgt01,+
+gen4,76,100,4,OOC66_mgt01,+
+gen5,101,125,5,OOC66_mgt01,+
+gen6,126,150,6,OOC66_mgt01,+
+gen7,151,175,7,OOC66_mgt01,+
+gen8,176,200,8,OOC66_mgt01,+
+gen9,201,225,9,OOC66_mgt01,+
