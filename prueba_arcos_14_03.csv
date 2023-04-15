@@ -1,4 +1,4 @@
-start,end, type
-20,50, m
-34,32, l
-40,120, m
+start,end,type
+20,5,m
+34,32,l
+40,12,m
